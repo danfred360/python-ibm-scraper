@@ -83,7 +83,7 @@ class output:
                 print('Path does not exist. Creating now...\n')
                 os.mkdir(path)
             f = open(str(filepath), "w")
-            
+
             f.write('\n' + str(i) + '\n')
             x = scrape(j)
             try:
@@ -104,12 +104,11 @@ class server:
     def run(self):
         if self.currentMin() > self.now:
             pass
-            
+
 
     def currentMin(self):
         return datetime.datetime.now().minute()
-        
+
 
 y = output()
 y.allSep(input('Please enter desired output path --> '))
-
