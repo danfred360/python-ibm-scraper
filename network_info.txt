@@ -1,0 +1,31 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : BKGAIGE209-105
+   Primary Dns Suffix  . . . . . . . : win.psu.edu
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : bk.psu.edu
+                                       aset.psu.edu
+                                       offsite.psu.edu
+                                       psu.edu
+                                       ecs.psu.edu
+                                       win.psu.edu
+                                       staff.win.psu.edu
+                                       rcc.psu.edu
+                                       sedtapp.psu.edu
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection I217-LM
+   Physical Address. . . . . . . . . : 74-E6-E2-E2-B0-7A
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 146.186.225.105(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.192
+   Default Gateway . . . . . . . . . : 146.186.225.65
+   DNS Servers . . . . . . . . . . . : 128.118.70.5
+                                       128.118.25.3
+   NetBIOS over Tcpip. . . . . . . . : Disabled
